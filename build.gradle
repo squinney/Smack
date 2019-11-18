@@ -26,7 +26,6 @@ allprojects {
 	apply plugin: 'eclipse'
 	apply plugin: 'idea'
 	apply plugin: 'jacoco'
-	apply plugin: 'net.ltgt.errorprone'
 
 	ext {
 		gitCommit = getGitCommit()
