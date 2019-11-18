@@ -133,7 +133,7 @@ allprojects {
 		powerMockVersion = '2.0.2'
 		commonsIoVersion = '2.6'
 	}
-	group = 'org.igniterealtime.smack'
+	group = 'com.github.squinney'
 	sourceCompatibility = JavaVersion.VERSION_1_8
 	targetCompatibility = sourceCompatibility
 	version = shortVersion
